@@ -1,5 +1,17 @@
 # Changelog
 
+## [10.16.0](https://github.com/LazyVim/LazyVim/compare/v10.15.0...v10.16.0) (2024-03-20)
+
+
+### Features
+
+* added LazyVim global. Will refactor specs later to use that ([6e57e86](https://github.com/LazyVim/LazyVim/commit/6e57e86c9952986a0e90055e13aa86dcde5e478e))
+
+
+### Bug Fixes
+
+* **util.telescope:** make `show_untracked` configurable ([#2789](https://github.com/LazyVim/LazyVim/issues/2789)) ([1661759](https://github.com/LazyVim/LazyVim/commit/1661759d3358dbaa4be834f0022d53071b6fb21c))
+
 ## [10.15.0](https://github.com/LazyVim/LazyVim/compare/v10.14.0...v10.15.0) (2024-03-20)
 
 
